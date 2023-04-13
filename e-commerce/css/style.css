@@ -1,0 +1,205 @@
+.menu{
+    color: #1b1b1b;
+    font-size: 20px;
+    margin-left: 20px;
+    text-decoration: none;
+}
+
+.menu:hover{
+    color: #fb605d;
+}
+
+.menu-active{
+    color: #fb605d;
+}
+
+.offer i{
+    font-size: 50px;
+}
+
+.btn-red{
+    background-color: #fb605d;
+    color: #fff;
+    padding: 6px 13px;
+    border: none;
+    border-radius: 10px;
+}
+
+.product{
+    background-color: #fff;
+    border-radius: 6px;
+}
+
+.product img{
+    border-radius: 6px 6px 0px 0px;
+}
+
+.social{
+    font-size: 30px;
+    margin-right: 5px;
+}
+
+.get{
+    border: none;
+    background-color: #f8f9fa;
+    padding: 4px;
+    width: 250px;
+}
+
+.like{
+    position: absolute;
+    margin-top: 15px;
+    margin-right: 15px;
+}
+
+.btn-white{
+    background-color: #fff;
+    color: #000;
+    padding: 6px 8px;
+    border: none;
+    border-radius: 50%;
+    font-size: 20px;
+}
+
+.btn-share{
+    background-color: #fff;
+    color: #000;
+    padding: 6px 8px;
+    border: none;
+    border-radius: 50%;
+    font-size: 20px;
+}
+
+.btn-share-active{
+    color: #fb605d;
+}
+
+.text-red{
+    color: #fb605d;
+    text-decoration: none;
+}
+
+.text-red:hover{
+    color: #fb605d;
+}
+
+.page{
+    padding: 5px 9px;
+    color: #1b1b1b;
+    text-decoration: none;
+}
+
+.page:hover{
+    background-color: #1b1b1b;
+    color: #fff;
+}
+
+.page-active{
+    background-color: #1b1b1b;
+    color: #fff;
+}
+
+.filter{
+    height: 150px;
+    overflow-y: scroll;
+}
+
+.filter::-webkit-scrollbar
+{
+	width: 5px;
+	background-color: #F5F5F5;
+}
+
+.filter::-webkit-scrollbar-thumb
+{
+	background-color: #d1d2d3;
+    border-radius: 4px;
+}
+
+#red{
+    background-color: red;
+}
+
+#blue{
+    background-color: blue;
+}
+
+#green{
+    background-color: green;
+}
+
+#yellow{
+    background-color: yellow;
+}
+
+#purple{
+    background-color: purple;
+}
+
+#black{
+    background-color: black;
+}
+
+#white{
+    background-color: white;
+}
+
+#brown{
+    background-color: brown;
+}
+
+.main {
+    display:block;
+    margin:0 auto;
+}
+.slider-top img {
+    line-height: 100px;
+    margin: 10px;
+    position: relative;
+}
+
+.slider-bottom img{
+    margin: 14px;
+    position: relative;
+    line-height: 100px;
+}
+
+.btn-sour{
+    background-color: #e6e8eb;
+    color: #000;
+    padding: 4px 8px;
+    border: none;
+    border-radius: 4px;
+}
+
+.btn-plus{
+    background-color: #e6e8eb;
+    color: #000;
+    padding: 4px 6px ;
+    border: none;
+    border-radius: 4px;
+}
+
+.text-product{
+    text-decoration: none;
+    color: #000;
+}
+
+.text-product:hover{
+    color: #000;
+}
+
+.blog{
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+}
+
+.bg-grey{
+    background-color: #e6e8eb;
+}
+
+.bg-grey i{
+    font-size: 40px;
+}
